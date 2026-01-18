@@ -1,7 +1,3 @@
-Here’s a cleaner, more **open-source / contribution-friendly** version of your README. You can directly replace your current content with this tone.
-
----
-
 # 🧭 Principal Engineer Handbook
 
 *A complete A–K guide for Senior / Staff / Principal Backend Engineering*
@@ -66,7 +62,7 @@ This handbook is **community-driven** and improves with real production experien
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/shivam-modi/engineer_handbook
+   git clone [https://github.com/shivam-modi/engineer_handbook](https://github.com/shivam-modi/engineer_handbook.git)
    ```
 2. Create a new branch
 
