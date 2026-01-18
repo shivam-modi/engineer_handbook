@@ -62,7 +62,7 @@ This handbook is **community-driven** and improves with real production experien
 1. **Clone the repository**
 
    ```bash
-   git clone [https://github.com/shivam-modi/engineer_handbook](https://github.com/shivam-modi/engineer_handbook.git)
+   git clone https://github.com/shivam-modi/engineer_handbook.git
    ```
 2. Create a new branch
 
